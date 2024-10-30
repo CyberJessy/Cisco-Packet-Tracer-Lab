@@ -104,6 +104,14 @@ Vlan Structure On Cisco Switch Limiting Broadcast:  <br/>
 <img src="https://imgur.com/6ZD3MwV.png" height="80%" width="80%" alt="Cisco Packet Tracer"/>
 <br />
 <br />
+Company Network Configuration:  <br/>
+<img src="https://imgur.com/I2LAF94.png" height="80%" width="80%" alt="Cisco Packet Tracer"/>
+<br />
+<br />
+Office Network Configuration:  <br/>
+<img src="https://imgur.com/3SsjBtN.png" height="80%" width="80%" alt="Cisco Packet Tracer"/>
+<br />
+<br />
 Cisco Server Configuration For Diffrent Branches Across The States:  <br/>
 <img src="https://imgur.com/vckfT5D.png" height="80%" width="80%" alt="Cisco Packet Tracer"/>
 </p>
